@@ -1,7 +1,7 @@
-- Hours it took to complete?
-	2
-- Which required and optional stories have you completed?
+- Hours it took to complete?<br/>
+	2 hours
+- Which required and optional stories have you completed?<br/>
 	Tip calculator in Swift
 
-Walkthrough:
+Walkthrough:<br/>
 ![Video Walkthrough](tips_swf.gif)
